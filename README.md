@@ -1,6 +1,8 @@
 # NeoPixelGridMediaPlayer
 Python scripts to directly render image and video files to play on a NeoPixel grid. These scripts don't use ANM files or make use of Processing
 
+https://jhwarren.com/projects/NeoPixelGridPlayers/
+
 ## Neo Movie Player
 * Took a few iterations but the final process is to run "sudo python3 neomovie.py"
     * Use -r and specify a filename to render a movie file and start playing it
